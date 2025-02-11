@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkee_wiki=self.webpackChunkee_wiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u79fb\u690d\u540e\u7684\u7b2c\u4e00\u7bc7\u63a8\u6587","permalink":"/portal-nextgen/blog/first-post","unlisted":false,"date":"2025-02-12T00:00:00.000Z"}]}')}}]);

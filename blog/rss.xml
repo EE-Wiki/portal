@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>社区共建，知识开源！ Blog</title>
-        <link>https://ee-wiki.github.io/portal-nextgen/blog</link>
+        <link>https://ee-wiki.vantao.cn/blog</link>
         <description>社区共建，知识开源！ Blog</description>
         <lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[移植后的第一篇推文]]></title>
-            <link>https://ee-wiki.github.io/portal-nextgen/blog/first-post</link>
-            <guid>https://ee-wiki.github.io/portal-nextgen/blog/first-post</guid>
+            <link>https://ee-wiki.vantao.cn/blog/first-post</link>
+            <guid>https://ee-wiki.vantao.cn/blog/first-post</guid>
             <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[熬了个夜，终于将站点框架移植为 Docusaurus，并且将原先为数不多的内容也搬运了过来。希望接下来能够生产力大爆发，多创作一些有用的内容！]]></description>
             <content:encoded><![CDATA[<p>熬了个夜，终于将站点框架移植为 Docusaurus，并且将原先为数不多的内容也搬运了过来。希望接下来能够生产力大爆发，多创作一些有用的内容！</p>]]></content:encoded>
