@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ee-wiki.tidalforce.cn/blog</id>
+    <id>https://ee-wiki.github.io/portal-nextgen/blog</id>
     <title>社区共建，知识开源！ Blog</title>
     <updated>2025-02-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ee-wiki.tidalforce.cn/blog"/>
+    <link rel="alternate" href="https://ee-wiki.github.io/portal-nextgen/blog"/>
     <subtitle>社区共建，知识开源！ Blog</subtitle>
-    <icon>https://ee-wiki.tidalforce.cn/img/logo-black-48px.png</icon>
+    <icon>https://ee-wiki.github.io/portal-nextgen/img/logo-black-48px.png</icon>
     <entry>
         <title type="html"><![CDATA[移植后的第一篇推文]]></title>
-        <id>https://ee-wiki.tidalforce.cn/blog/first-post</id>
-        <link href="https://ee-wiki.tidalforce.cn/blog/first-post"/>
+        <id>https://ee-wiki.github.io/portal-nextgen/blog/first-post</id>
+        <link href="https://ee-wiki.github.io/portal-nextgen/blog/first-post"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[熬了个夜，终于将站点框架移植为 Docusaurus，并且将原先为数不多的内容也搬运了过来。希望接下来能够生产力大爆发，多创作一些有用的内容！]]></summary>
         <content type="html"><![CDATA[<p>熬了个夜，终于将站点框架移植为 Docusaurus，并且将原先为数不多的内容也搬运了过来。希望接下来能够生产力大爆发，多创作一些有用的内容！</p>]]></content>
