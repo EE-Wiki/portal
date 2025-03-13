@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://github.com/EE-Wiki/portal/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-pink?style=flat-square" alt="website"/></a>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-BY--NC--SA_4.0-green?style=flat-square" alt="website"/></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/license-BY--SA_4.0-green?style=flat-square" alt="website"/></a>
 <a href="https://github.com/EE-Wiki/portal/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EE-Wiki/portal?color=2b9348&style=flat-square"></a>
 <a href="https://github.com/EE-Wiki/portal/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/EE-Wiki/portal?style=flat-square&color=ffb700"></a>
 <a href="https://github.com/EE-Wiki/portal/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/EE-Wiki/portal?style=flat-square&color=8742b1"></a>
