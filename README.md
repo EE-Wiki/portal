@@ -5,11 +5,11 @@
 > **EE** 为 (Electronic Engineering) 的缩写，译为电子工程。
 
 <div align="center">
-<a href="https://github.com/TidalForce-cn/EE-Wiki/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-pink?style=flat-square" alt="website"/></a>
+<a href="https://github.com/EE-Wiki/portal/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-pink?style=flat-square" alt="website"/></a>
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-BY--NC--SA_4.0-green?style=flat-square" alt="website"/></a>
-<a href="https://github.com/TidalForce-cn/EE-Wiki/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TidalForce-cn/EE-Wiki?color=2b9348&style=flat-square"></a>
-<a href="https://github.com/TidalForce-cn/EE-Wiki/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/TidalForce-cn/EE-Wiki?style=flat-square&color=ffb700"></a>
-<a href="https://github.com/TidalForce-cn/EE-Wiki/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/TidalForce-cn/EE-Wiki?style=flat-square&color=8742b1"></a>
+<a href="https://github.com/EE-Wiki/portal/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EE-Wiki/portal?color=2b9348&style=flat-square"></a>
+<a href="https://github.com/EE-Wiki/portal/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/EE-Wiki/portal?style=flat-square&color=ffb700"></a>
+<a href="https://github.com/EE-Wiki/portal/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/EE-Wiki/portal?style=flat-square&color=8742b1"></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 任务清单
 
-**已转移到站点内部页面[（单击查看）](https://ee-wiki.tidalforce.cn/intro/ToDoList/)**
+**已转移到站点内部页面[（单击查看）](https://ee-wiki.vantao.cn/intro/ToDoList/)**
 
 ## 交流平台
 
@@ -33,7 +33,7 @@
 
 ## 参与建设
 
-**具体内容请查看站内页面[（单击查看）](https://ee-wiki.tidalforce.cn/intro/contribute/)**
+**具体内容请查看站内页面[（单击查看）](https://ee-wiki.vantao.cn/intro/contribute/)**
 
 ## 敬贡献者们
 
