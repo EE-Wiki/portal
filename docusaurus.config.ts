@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'EE-Wiki', // Usually your GitHub org/user name.
-  projectName: 'portal-nextgen', // Usually your repo name.
+  projectName: 'portal', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ee-wiki/portal-nextgen/tree/main/',
+            'https://github.com/ee-wiki/portal/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ee-wiki/portal-nextgen/tree/main/',
+            'https://github.com/ee-wiki/portal/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -90,7 +90,7 @@ const config: Config = {
         },
         {to: '/blog', label: '站内博客', position: 'left'},
         {
-          href: 'https://github.com/ee-wiki/portal-nextgen',
+          href: 'https://github.com/ee-wiki/portal',
           label: 'GitHub',
           position: 'right',
         },
