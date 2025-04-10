@@ -116,17 +116,17 @@ const config: Config = {
           title: '社区相关',
           items: [
             {
+              label: '贡献者列表',
+              to: '/contributors',
+            },
+            {
               label: '微信公众号',
               to: '/weixin',
             },
             {
               label: 'QQ 交流群',
               href: 'https://jq.qq.com/?_wv=1027&k=ex93ZPGh',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/EE-Wiki',
-            },
+            }
           ],
         },
         {
